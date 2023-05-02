@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pages-razas/static/css/main.e56373a1.css",
+    "main.js": "/pages-razas/static/js/main.6088f836.js",
+    "static/media/raza-Bulldog.png": "/pages-razas/static/media/raza-Bulldog.30b1a9a4810791f1038d.png",
+    "static/media/raza-Bóxer.png": "/pages-razas/static/media/raza-Bóxer.e0f1cc806fd37a9a1e6c.png",
+    "static/media/raza-Grandanes.png": "/pages-razas/static/media/raza-Grandanes.6a97671c4b4140aec8d3.png",
+    "index.html": "/pages-razas/index.html",
+    "main.e56373a1.css.map": "/pages-razas/static/css/main.e56373a1.css.map",
+    "main.6088f836.js.map": "/pages-razas/static/js/main.6088f836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e56373a1.css",
+    "static/js/main.6088f836.js"
+  ]
+}
